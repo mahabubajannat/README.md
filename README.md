@@ -69,29 +69,7 @@
 
 ---
 
-## 🏅My Competitive Programming Stats
 
-### 🟧 LeetCode Profile & Activity
-<p align="center">
-  <a href="https://leetcode.com/your-leetcode/">
-    <img src="https://leetcard.jacoblin.cool/your-leetcode?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
-### 🟦 Codeforces Profile & Activity
-<p align="center">
-  <a href="https://codeforces.com/profile/your-codeforces">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces&theme=dark" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/your-codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-your-codeforces-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
-  </a>
-</p>
-
----
 
 ## ⚡ My Tech Stack
 
